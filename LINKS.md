@@ -51,7 +51,7 @@ Raw link dump from the thread, organized by section. See
 - https://miyukiai.com
 - https://civitaiarchive.com
 - https://civitasbay.org
-- https://www.stablebay.org
+- https://www.stablebay.org — **checked 2026-09-12: connection times out, appears dead** (consistent with the README's note that these alternative/mirror hosts come and go)
 - https://openmodeldb.info
 
 ## Index of guides and other tools
